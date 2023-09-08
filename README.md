@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoveshSahu
-- 👀 I’m interested in Developing Software,Websites
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Visual Code
 - 💞️ I’m looking to collaborate on Visual Studio
 - 📫 How to reach me moveshkumarsahu@7400.com
